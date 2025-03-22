@@ -1,0 +1,1 @@
+This repo only inclueds the variations of problem which is not present on Leetcode or Geeks for Geeks to be solved.
